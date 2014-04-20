@@ -69,4 +69,5 @@ data =  [{"id"=>"7",
   "url"=>"3jmdLpsK_k8",
   "genre"=>"Music"}]
 
-  Video.create[data]
+  
+    Video.create(data)
